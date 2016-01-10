@@ -1,3 +1,3 @@
 # tech-friendly
 Repository for GitHub Newbie
-Hello to all. Looking forward to :Learning: :Code:. Cheers!
+Hello to all. Looking forward to Learning Code. :beer:!
